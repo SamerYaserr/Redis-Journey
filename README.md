@@ -1,6 +1,6 @@
 # Redis-Journey
 
-This repository documents my Redis study journey. It contains examples and notes that I built while learning — a hands-on path to understand caching, pub/sub, and core Redis patterns.
+This repository documents my Redis study journey. It contains examples that I built while learning — a hands-on path to understand caching, and core Redis patterns.
 
 ---
 
